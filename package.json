@@ -1,8 +1,8 @@
 {
-  "name": "react-fancy-button",
+  "name": "react-fancy-bootstrap-button",
   "version": "0.1.0",
   "description": "React Button component",
-  "author": "Jawblia",
+  "author": "Hassan Raza",
   "keywords": [
     "react",
     "components",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HassanRaza1112/react-fancy-button"
+    "url": "git+https://github.com/HassanRaza1112/react-fancy-bootstrap-button"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
